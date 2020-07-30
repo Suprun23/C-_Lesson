@@ -1,0 +1,7 @@
+C:\Users\ARSSN\source\repos\SecondLesson_HomeWork\SecondLesson_HomeWork\bin\Debug\SecondLesson_HomeWork.exe.config
+C:\Users\ARSSN\source\repos\SecondLesson_HomeWork\SecondLesson_HomeWork\bin\Debug\SecondLesson_HomeWork.exe
+C:\Users\ARSSN\source\repos\SecondLesson_HomeWork\SecondLesson_HomeWork\bin\Debug\SecondLesson_HomeWork.pdb
+C:\Users\ARSSN\source\repos\SecondLesson_HomeWork\SecondLesson_HomeWork\obj\Debug\SecondLesson_HomeWork_Example1.csprojAssemblyReference.cache
+C:\Users\ARSSN\source\repos\SecondLesson_HomeWork\SecondLesson_HomeWork\obj\Debug\SecondLesson_HomeWork_Example1.csproj.CoreCompileInputs.cache
+C:\Users\ARSSN\source\repos\SecondLesson_HomeWork\SecondLesson_HomeWork\obj\Debug\SecondLesson_HomeWork.exe
+C:\Users\ARSSN\source\repos\SecondLesson_HomeWork\SecondLesson_HomeWork\obj\Debug\SecondLesson_HomeWork.pdb
